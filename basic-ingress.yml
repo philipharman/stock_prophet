@@ -7,3 +7,4 @@ spec:
   backend:
     serviceName: dashboard-app
     servicePort: 80
+#
