@@ -8,6 +8,6 @@
 Docker version: 
 docker pull philipharman/stock_prediction
 
-Application at: http://34.67.120.33/
+Application deployed through Kubernetes at: http://34.67.120.33/
 
 Full writeup at: LINK
