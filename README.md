@@ -1,7 +1,6 @@
 A stock prediction app using Facebook Prophet, Dash, and Plotly.
 
-x-special/nautilus-clipboard
-copy
+
 file:///home/philipharman/Desktop/stock_prophet/coverphoto.png
 
 
