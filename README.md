@@ -1,9 +1,9 @@
 A stock prediction app using Facebook Prophet, Dash, and Plotly.
 
 
-file:///home/philipharman/Desktop/stock_prophet/coverphoto.png
 
 
+![alt text](https://github.com/philipharman/stock_prophet/blob/master/coverphoto.png)
 
 Docker version: 
 docker pull philipharman/stock_prediction
