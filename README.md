@@ -1,4 +1,4 @@
-A stock prediction app using Facebook Prophet, Dash, and Plotly.
+# A stock prediction app using Facebook Prophet, Dash, and Plotly.
 
 
 
