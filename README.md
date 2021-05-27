@@ -1,6 +1,6 @@
 # Stock prediction app using Facebook Prophet, Dash, and Plotly.
 
-
+https://img.shields.io/badge/Docker-20.10.6-blue
 
 
 ![alt text](https://github.com/philipharman/stock_prophet/blob/master/coverphoto.png)
